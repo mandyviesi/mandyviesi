@@ -1,16 +1,12 @@
-### Hey, I'm Amanda Vieira (:
+### Hey, I'm Amanda Vieira (she / her) 👩‍🔬
 
-<!--
-**mandyviesi/mandyviesi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a PhD student at Evolution and Diversity (Brazil) , but I'm doing a sandwich period at University of Michigan (USA)
 
-Here are some ideas to get you started:
+I'm working on the costs of mutualistic interactions. Do you remember your teacher saying that mutualistic interactions, such as *pollination* 🐝🌸 has a positive outcome? So, yeah, that's not always so simple... And that's what I'm investigating right now.
+For this, I use a lot of statistics for ecological modelling and trait evolution mostly in R.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- ♀️ Pronouns: she / her
-- ⚡ Fun fact: ...
--->
+Here, I'll share the code for the analysis I'm doing and some stuff I do for fun (such as Tidy Tuesday)
+
+Reach me if you want to talk a little bit about ecology, evolution and R 😊
+
+My personal website is still under construction, but you can see more details about my academic carreer [there](https://amandaviesi.weebly.com/)
